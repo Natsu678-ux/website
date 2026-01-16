@@ -1,6 +1,10 @@
 ---
 title: Storage
-titleTemplate: Frequently Asked Questions
+titleTemplate: Frequently Asked Que
+
+https://github.com/user-attachments/assets/3c503deb-4deb-4328-b223-afaac7f621ca
+
+stions
 description: Understanding Storage Permissions.
 ---
 
